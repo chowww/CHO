@@ -1,0 +1,32 @@
+#header {
+	font-weight: bold;
+}
+
+h1 {
+	text-align: center;
+	font-weight: bold;
+}
+
+h3 {
+	font-weight: bold;
+}
+
+#o_3, #o_4, #o_5 {
+	display: none;
+}
+
+#e_3, #e_4, #e_5 {
+	display: none;
+}
+
+#a_3, #a_4, #a_5 {
+	display: none;
+}
+
+#s_3, #s_4, #s_5 {
+	display: none;
+}
+
+#v_3, #v_4, #v_5 {
+	display: none;
+}
