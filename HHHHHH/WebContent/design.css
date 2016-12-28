@@ -32,7 +32,25 @@ h3{
 	display : none;
 }
 
+ul{
+	list-style-type : none:
+	margin : 0;
+	padding : 0;
+	width : 130px;
+	postition : fixed;
+	overflow : auto;
+}
 
+li a{
+	display : block;
+	background : #999999;
+	padding : 10px;
+	text-decoration : none;
+}
+
+#Navigation{
+	left-margin : 300px;
+}
 
 
 
